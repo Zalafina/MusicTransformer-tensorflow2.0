@@ -3,11 +3,11 @@ data
 
 *.midi
 *.MID
+*.mid
 *.pickle
 *__pycache__
 *.idea
 
-bin/
 dataset/
 result/
 model/
